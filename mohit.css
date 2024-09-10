@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+.header{
+border: 1x solid;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient( rgba(73, 159, 158, 0.734),rgba(74, 89, 7, 0.7)),
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCjk-kXu-w4KAmSnzsk3A4MfIc7yOLjpALmx1ws4Tlg&s");
+    background-size: cover;
+
+}
+.p{
+color: #fff;
+font: 30px;
+    padding: 25px 25px;
+
+}
+h1{
+    color: #fff;
+    font: 30px;
+    padding: 25px 25px;
+ }
